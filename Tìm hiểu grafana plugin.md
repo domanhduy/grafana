@@ -50,7 +50,7 @@ types.db - Thông số thiết lập dữ liệu cho hệ thống thống kê da
 
 + Khi được đặt thành true, các thu thập khác nhau về daemon thu thập sẽ được thu thập, với "collectd" là name plugin. Mặc định là false.
 
-**Interval     10**
+**Interval     10** 
 
 + Định cấu hình khoảng thời gian để truy vấn lại các plugin. Các giá trị nhỏ hơn dẫn đến một hệ thống laod cao hơn để cung cấp thông tin cho collectd, trong khi các giá trị cao hơn dẫn đến thống kê không được chi tiết.
 
