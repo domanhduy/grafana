@@ -53,7 +53,9 @@ Nhìn vào sơ đồ trên dễ dàng hình dùng được quá trình hoạt đ
 
 -Grafana lấy thông tin từ data source từ graphite về để hiển thị dạng trực quan, monitor trực quan. Tùy từng dữ liệu, yêu cầu monitor mà sử dụng một loại biểu đồ hiện thị khác nhau, panel khác nhau sao cho phù hợp nhất.
 
-
+ 
+hihi
+ 
 ## 2, Chuẩn bị ##
 
 ## 2.1. System Requirements ##
