@@ -125,3 +125,8 @@ Sử dụng trapper item khi:
 Allow host: Nếu được chỉ định, trapper (trình thu thập) sẽ chỉ chấp nhận dữ liệu đến từ danh sách Allow host.
 
 
+Lưu ý: Cụm ceph có nhiều con thì phỉa set các tham số vào đúng 1 con ceph -> Check tham số hay lỗi ở file cd /var/log/ceph.audit.log
+
+![](http://prntscr.com/la6bvy)
+
+
