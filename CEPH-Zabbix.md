@@ -129,4 +129,6 @@ Lưu ý: Cụm ceph có nhiều con thì phỉa set các tham số vào đúng 1
 
 ![](http://prntscr.com/la6bvy)
 
+![](http://prntscr.com/la6cpg)
+
 
