@@ -127,8 +127,9 @@ Allow host: Nếu được chỉ định, trapper (trình thu thập) sẽ chỉ
 
 Lưu ý: Cụm ceph có nhiều con thì phỉa set các tham số vào đúng 1 con ceph -> Check tham số hay lỗi ở file cd /var/log/ceph.audit.log
 
-![](http://prntscr.com/la6bvy)
 
-![](http://prntscr.com/la6cpg)
+![](https://i.imgur.com/HEsHd4E.png)
+
+![](https://i.imgur.com/MFoZH3l.png)
 
 
