@@ -1,4 +1,4 @@
-# Alert - Zabbix - To be the best
+# Alert - Zabbix - To be the best - MinhNV
 
 Sau gần một năm tìm hiểu zabbix trong môi trường lab, tôi gần đây qua lại với nó và triển khai nó trong môi trường production. Rất nhiều vấn đề gặp phải (nó không còn đẹp đẽ như trong lab), một trong những vấn đề cực kì khiến tôi phải suy nghĩ là hiệu năng và hiệu quả. Sẽ có một series bài như: Cấu hình mysql như thế nào? Đặt các trigger như nào để không spam gây phiền toán? Hay những plugin mà tôi viết thêm ... 
 Nhưng hôm nay tôi xin chia sẻ cách cảnh báo zabbix thông qua mail và telegram (2 phần mềm được mọi người sửa dụng mọi lúc mọi nơi và đang là trend của bây giờ)
